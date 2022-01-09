@@ -1,9 +1,9 @@
 {
-    "name": "PINKY BY AFNAN PLK",
+    "name": "PINKY BY ADHI",
     "description": "pinky bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.imgur.com/zdcqaaG.jpeg",
+    "logo": "https://images.app.goo.gl/3vQ85urVhGTn5L9C7",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/afnanplk/Pinky_V2",
+    "repository": "https://github.com/Botv2h/Pinky_V2",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
